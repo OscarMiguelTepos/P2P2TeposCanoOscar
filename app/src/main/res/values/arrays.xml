@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="estados">
+        <item> Nuevo Leon</item>
+
+        <item> Aguascalientes</item>
+        <item> Baja California sur</item>
+        <item> Baja Claifornia Norte </item>
+        <item> Campeche</item>
+        <item> Coahulia</item>
+        <item> Colima</item>
+        <item> CDMX</item>
+        <item> Durango</item>
+        <item> Veracruz</item>
+        <item> Tamaulipas</item>
+        <item> Hidalgo</item>
+        <item> Queretaro</item>
+        <item> Puebla</item>
+        <item> Chiapas</item>
+        <item> Yucatan</item>
+        <item> Guanajuato</item>
+        <item> Qintana Roo</item>
+        <item> Michoacan</item>
+        <item> Chihuahua</item>
+        <item> Oaxaca</item>
+        <item> Jalisco</item>
+        <item> Sonora</item>
+        <item> Tlaxcala</item>
+        <item> Estado de Mexico</item>
+        <item> Sinaloa</item>
+        <item> Nayarit</item>
+        <item> Tabasco</item>
+        <item> San Luis</item>
+        <item> Morelos</item>
+        <item> Zacatecas</item>
+        <item> Guerrero</item>
+
+    </string-array>
+</resources>
